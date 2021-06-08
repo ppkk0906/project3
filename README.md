@@ -79,9 +79,9 @@ import QuantativeAnalysis as qa
 ## 해당 프로젝트에서 맡은 역할
 
 ### 사용 기술
-1. ```Python```
+1. Python
   - ```BeautifulSoup, requests, pandas, scikit-learn, keras, multiprocessing```
-2. ```HTML/CSS/JavaScript```
+2. HTML/CSS/JavaScript
   - ```Bootstrap5, jQuery, Chart.js, CanvasJs```
 ### 상세
 1. 종토방 게시글 데이터 수집
