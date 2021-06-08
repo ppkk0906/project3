@@ -78,6 +78,12 @@ import QuantativeAnalysis as qa
 ---
 ## 해당 프로젝트에서 맡은 역할
 
+### 사용 기술
+1. ```Python```
+  - ```BeautifulSoup, requests, pandas, scikit-learn, keras, multiprocessing```
+2. ```HTML/CSS/JavaScript```
+  - ```Bootstrap5, jQuery, Chart.js, CanvasJs```
+### 상세
 1. 종토방 게시글 데이터 수집
   - ```./종토방크롤링/종토방 multiprocessing.py``` 작성
   - 파이썬의 ```multiprocessing``` 모듈을 활용하여 종목토론방 크롤링 효율을 향상시킴
