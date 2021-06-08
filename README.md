@@ -88,4 +88,4 @@ import QuantativeAnalysis as qa
 3. LSTM 모델 활용 및 변수 창출
   - ```./종토방크롤링/종토방_데이터셋제작.ipynb``` 작성
 4. 시각화
-  - ```./DART_web``` 내의 ```static/js/canvasjs-stock-1.2.17``` 제외하고 모두 작성
+  - ```./DART_web/``` 내의 ```static/js/canvasjs-stock-1.2.17``` 제외하고 모두 작성
